@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://airaexohng.tinogood.ch/sitemap.xml
